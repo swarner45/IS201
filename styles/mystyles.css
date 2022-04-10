@@ -1,0 +1,30 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightcoral;
+}
+
+h1{
+    font-weight: bolder;
+    color: white;
+}
+
+.subheading{
+    color: white;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+a{
+    color: brown;
+    text-decoration: underline;
+    padding: 14px 25px;
+    display: inline-block;
+    border: 2px white;
+}
+
+#mainNav{
+    color: white;
+}
